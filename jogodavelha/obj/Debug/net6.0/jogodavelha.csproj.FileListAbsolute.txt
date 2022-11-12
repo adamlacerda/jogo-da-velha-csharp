@@ -1,0 +1,15 @@
+/home/alan/PROGRAMAÇÃO/GitHub/portfolios/jogo-da-velha-c-/jogodavelha/bin/Debug/net6.0/jogodavelha
+/home/alan/PROGRAMAÇÃO/GitHub/portfolios/jogo-da-velha-c-/jogodavelha/bin/Debug/net6.0/jogodavelha.deps.json
+/home/alan/PROGRAMAÇÃO/GitHub/portfolios/jogo-da-velha-c-/jogodavelha/bin/Debug/net6.0/jogodavelha.runtimeconfig.json
+/home/alan/PROGRAMAÇÃO/GitHub/portfolios/jogo-da-velha-c-/jogodavelha/bin/Debug/net6.0/jogodavelha.dll
+/home/alan/PROGRAMAÇÃO/GitHub/portfolios/jogo-da-velha-c-/jogodavelha/bin/Debug/net6.0/ref/jogodavelha.dll
+/home/alan/PROGRAMAÇÃO/GitHub/portfolios/jogo-da-velha-c-/jogodavelha/bin/Debug/net6.0/jogodavelha.pdb
+/home/alan/PROGRAMAÇÃO/GitHub/portfolios/jogo-da-velha-c-/jogodavelha/obj/Debug/net6.0/jogodavelha.csproj.AssemblyReference.cache
+/home/alan/PROGRAMAÇÃO/GitHub/portfolios/jogo-da-velha-c-/jogodavelha/obj/Debug/net6.0/jogodavelha.GeneratedMSBuildEditorConfig.editorconfig
+/home/alan/PROGRAMAÇÃO/GitHub/portfolios/jogo-da-velha-c-/jogodavelha/obj/Debug/net6.0/jogodavelha.AssemblyInfoInputs.cache
+/home/alan/PROGRAMAÇÃO/GitHub/portfolios/jogo-da-velha-c-/jogodavelha/obj/Debug/net6.0/jogodavelha.AssemblyInfo.cs
+/home/alan/PROGRAMAÇÃO/GitHub/portfolios/jogo-da-velha-c-/jogodavelha/obj/Debug/net6.0/jogodavelha.csproj.CoreCompileInputs.cache
+/home/alan/PROGRAMAÇÃO/GitHub/portfolios/jogo-da-velha-c-/jogodavelha/obj/Debug/net6.0/jogodavelha.dll
+/home/alan/PROGRAMAÇÃO/GitHub/portfolios/jogo-da-velha-c-/jogodavelha/obj/Debug/net6.0/ref/jogodavelha.dll
+/home/alan/PROGRAMAÇÃO/GitHub/portfolios/jogo-da-velha-c-/jogodavelha/obj/Debug/net6.0/jogodavelha.pdb
+/home/alan/PROGRAMAÇÃO/GitHub/portfolios/jogo-da-velha-c-/jogodavelha/obj/Debug/net6.0/jogodavelha.genruntimeconfig.cache
